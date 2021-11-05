@@ -2,7 +2,7 @@ let xlsx = require('xlsx');
 let fs = require('fs')
 
 const input = 'docs/文档名.xlsx'
-// const output = '80v.json';
+// const output = '80v.json'
 // const sheetIndex = 0
 const output = '30x.json'
 const sheetIndex = 1
