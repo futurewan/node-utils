@@ -1,7 +1,7 @@
 let xlsx = require('xlsx');
 let fs = require('fs')
 
-const input = 'docs/枫叶汽车授权服务网点录入新官网信息.xlsx'
+const input = 'docs/文档名.xlsx'
 // const output = '80v.json'
 // const sheetIndex = 0
 const output = '30x.json'
